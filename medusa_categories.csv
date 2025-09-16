@@ -1,0 +1,12 @@
+id,name,handle,description,is_active,is_internal
+college_1,COLEGIO LOS REYES,colegio-los-reyes,Uniformes para COLEGIO LOS REYES,True,False
+college_2,JUAN XXIII,juan-xxiii,Uniformes para JUAN XXIII,True,False
+college_3,NUEVO HORIZONTE,nuevo-horizonte,Uniformes para NUEVO HORIZONTE,True,False
+college_4,CIEC,ciec,Uniformes para CIEC,True,False
+college_5,SUEÑOS MAGICOS,sueos-magicos,Uniformes para SUEÑOS MAGICOS,True,False
+college_6,SOLRÍE,solre,Uniformes para SOLRÍE,True,False
+college_7,VARIOS COLEGIOS,varios-colegios,Uniformes para VARIOS COLEGIOS,True,False
+college_8,NAHUEL,nahuel,Uniformes para NAHUEL,True,False
+college_9,YERPUN - MONTESORI,yerpun-montesori,Uniformes para YERPUN - MONTESORI,True,False
+college_10,VARIOS CODIGOS,varios-codigos,Uniformes para VARIOS CODIGOS,True,False
+generic,Productos Genéricos,genericos,Productos disponibles para múltiples colegios,True,False

@@ -1,0 +1,36 @@
+{
+  "UCLIN-2": {
+    "title": "Uniformes Empresas",
+    "images": [
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-27-at-18.23.21.jpeg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-27-at-18.22.17.jpeg"
+    ],
+    "thumbnail": "https://www.juliaconfecciones.cl/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-27-at-18.22.17.jpeg"
+  },
+  "UCLIN-1": {
+    "title": "Uniformes Clínicos (copia)",
+    "images": [
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico2.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico4.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico7-150x150.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico3.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico6.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico1.jpg"
+    ],
+    "thumbnail": "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico1.jpg"
+  },
+  "UCLIN": {
+    "title": "Uniformes Clínicos",
+    "images": [
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-27-at-17.39.17.jpeg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico2.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-27-at-17.37.54.jpeg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico7-150x150.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico3.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico6.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico1.jpg",
+      "https://www.juliaconfecciones.cl/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-27-at-17.39.18.jpeg"
+    ],
+    "thumbnail": "https://www.juliaconfecciones.cl/wp-content/uploads/2017/02/clinico1.jpg"
+  }
+}

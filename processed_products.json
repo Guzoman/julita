@@ -1,0 +1,8002 @@
+[
+  {
+    "title": "Falda Gris - VARIOS COLEGIOS",
+    "slug": "falda-gris-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Falda Gris",
+    "variants": [
+      {
+        "sku": "21",
+        "size": "6",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2104",
+        "size": "4",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2106",
+        "size": "6",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2108",
+        "size": "8",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2110",
+        "size": "10",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2112",
+        "size": "12",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2114",
+        "size": "14",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2116",
+        "size": "16",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2138",
+        "size": "38",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2140",
+        "size": "40",
+        "price": 19500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2142",
+        "size": "42",
+        "price": 20000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2144",
+        "size": "44",
+        "price": 21500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2146",
+        "size": "46",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2148",
+        "size": "48",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2150",
+        "size": "50",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2152",
+        "size": "52",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2154",
+        "size": "54",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2156",
+        "size": "56",
+        "price": 22000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 16500,
+      "max": 22000
+    }
+  },
+  {
+    "title": "Polera Azul Manga Cor - COLEGIO LOS REYES",
+    "slug": "polera-azul-manga-cor-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polera Azul Manga Corta",
+    "variants": [
+      {
+        "sku": "1104",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1106",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1108",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1110",
+        "size": "10",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1112",
+        "size": "12",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1114",
+        "size": "14",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1116",
+        "size": "16",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1118",
+        "size": "S",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1120",
+        "size": "M",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1122",
+        "size": "L",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1124",
+        "size": "XL",
+        "price": 19000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1126",
+        "size": "XXL",
+        "price": 20000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 20000
+    }
+  },
+  {
+    "title": "Polera Azul Manga Larga - COLEGIO LOS REYES",
+    "slug": "polera-azul-manga-larga-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polera Azul Manga Larga",
+    "variants": [
+      {
+        "sku": "1204",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1206",
+        "size": "6",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1208",
+        "size": "8",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1210",
+        "size": "10",
+        "price": 15490,
+        "cost_price": 0
+      },
+      {
+        "sku": "1212",
+        "size": "12",
+        "price": 15490,
+        "cost_price": 0
+      },
+      {
+        "sku": "1214",
+        "size": "14",
+        "price": 15990,
+        "cost_price": 0
+      },
+      {
+        "sku": "1216",
+        "size": "16",
+        "price": 15990,
+        "cost_price": 0
+      },
+      {
+        "sku": "1218",
+        "size": "S",
+        "price": 16990,
+        "cost_price": 0
+      },
+      {
+        "sku": "1220",
+        "size": "M",
+        "price": 16990,
+        "cost_price": 0
+      },
+      {
+        "sku": "1222",
+        "size": "L",
+        "price": 16990,
+        "cost_price": 0
+      },
+      {
+        "sku": "1224",
+        "size": "XL",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1226",
+        "size": "XXL",
+        "price": 18500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14000,
+      "max": 18500
+    }
+  },
+  {
+    "title": "Polera Gris Manga Cor - COLEGIO LOS REYES",
+    "slug": "polera-gris-manga-cor-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polera Gris Manga Corta",
+    "variants": [
+      {
+        "sku": "1304",
+        "size": "4",
+        "price": 4250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1306",
+        "size": "6",
+        "price": 4500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1308",
+        "size": "8",
+        "price": 4800,
+        "cost_price": 0
+      },
+      {
+        "sku": "1310",
+        "size": "10",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1312",
+        "size": "12",
+        "price": 5250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1314",
+        "size": "14",
+        "price": 5500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1316",
+        "size": "16",
+        "price": 5500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1318",
+        "size": "S",
+        "price": 5750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1320",
+        "size": "M",
+        "price": 5750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1322",
+        "size": "L",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1324",
+        "size": "XL",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1326",
+        "size": "XXL",
+        "price": 6000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4250,
+      "max": 6000
+    }
+  },
+  {
+    "title": "Polera Gris Manga Larga - COLEGIO LOS REYES",
+    "slug": "polera-gris-manga-larga-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polera Gris Manga Larga",
+    "variants": [
+      {
+        "sku": "1404",
+        "size": "4",
+        "price": 6800,
+        "cost_price": 0
+      },
+      {
+        "sku": "1406",
+        "size": "6",
+        "price": 7100,
+        "cost_price": 0
+      },
+      {
+        "sku": "1408",
+        "size": "8",
+        "price": 7350,
+        "cost_price": 0
+      },
+      {
+        "sku": "1410",
+        "size": "10",
+        "price": 7650,
+        "cost_price": 0
+      },
+      {
+        "sku": "1412",
+        "size": "12",
+        "price": 7950,
+        "cost_price": 0
+      },
+      {
+        "sku": "1414",
+        "size": "14",
+        "price": 8200,
+        "cost_price": 0
+      },
+      {
+        "sku": "1416",
+        "size": "16",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1418",
+        "size": "S",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "1420",
+        "size": "M",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "1422",
+        "size": "L",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1424",
+        "size": "XL",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1426",
+        "size": "XXL",
+        "price": 9250,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6800,
+      "max": 9250
+    }
+  },
+  {
+    "title": "Polerón Azul - COLEGIO LOS REYES",
+    "slug": "polern-azul-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polerón Azul",
+    "variants": [
+      {
+        "sku": "1504",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1506",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1508",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1510",
+        "size": "10",
+        "price": 8750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1512",
+        "size": "12",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1514",
+        "size": "14",
+        "price": 9250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1516",
+        "size": "16",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1518",
+        "size": "S",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1520",
+        "size": "M",
+        "price": 10250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1522",
+        "size": "L",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1524",
+        "size": "XL",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31504",
+        "size": "4",
+        "price": 17000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 17000
+    }
+  },
+  {
+    "title": "Poleron Azul - COLEGIO LOS REYES",
+    "slug": "poleron-azul-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Poleron Azul",
+    "variants": [
+      {
+        "sku": "1526",
+        "size": "XXL",
+        "price": 11500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11500,
+      "max": 11500
+    }
+  },
+  {
+    "title": "Polerón Gris - COLEGIO LOS REYES",
+    "slug": "polern-gris-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polerón Gris",
+    "variants": [
+      {
+        "sku": "1604",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1606",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1608",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1610",
+        "size": "10",
+        "price": 8750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1612",
+        "size": "12",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1614",
+        "size": "14",
+        "price": 9250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1616",
+        "size": "16",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1618",
+        "size": "S",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1620",
+        "size": "M",
+        "price": 10250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1622",
+        "size": "L",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1624",
+        "size": "XL",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1626",
+        "size": "XXL",
+        "price": 11500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 11500
+    }
+  },
+  {
+    "title": "Calza Cor - VARIOS COLEGIOS",
+    "slug": "calza-cor-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Calza Corta",
+    "variants": [
+      {
+        "sku": "1704",
+        "size": "4",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1706",
+        "size": "6",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1708",
+        "size": "8",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1710",
+        "size": "10",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1712",
+        "size": "12",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1714",
+        "size": "14",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1716",
+        "size": "16",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1718",
+        "size": "S",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1720",
+        "size": "M",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1722",
+        "size": "L",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1724",
+        "size": "XL",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1726",
+        "size": "XXL",
+        "price": 11900,
+        "cost_price": 0
+      },
+      {
+        "sku": "3402",
+        "size": "2",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3403",
+        "size": "3",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3404",
+        "size": "4",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3406",
+        "size": "6",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3408",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3410",
+        "size": "10",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3414",
+        "size": "14",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3416",
+        "size": "16",
+        "price": 9000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6000,
+      "max": 11900
+    }
+  },
+  {
+    "title": "calzas - VARIOS COLEGIOS",
+    "slug": "calzas-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "calzas",
+    "variants": [
+      {
+        "sku": "1728",
+        "size": "3XL",
+        "price": 11900,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11900,
+      "max": 11900
+    }
+  },
+  {
+    "title": "Calza Larga - VARIOS COLEGIOS",
+    "slug": "calza-larga-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Calza Larga",
+    "variants": [
+      {
+        "sku": "1804",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1806",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1808",
+        "size": "8",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1810",
+        "size": "10",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1812",
+        "size": "12",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1814",
+        "size": "14",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1816",
+        "size": "16",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1818",
+        "size": "S",
+        "price": 13600,
+        "cost_price": 0
+      },
+      {
+        "sku": "1820",
+        "size": "M",
+        "price": 14200,
+        "cost_price": 0
+      },
+      {
+        "sku": "1822",
+        "size": "L",
+        "price": 14700,
+        "cost_price": 0
+      },
+      {
+        "sku": "1824",
+        "size": "XL",
+        "price": 15900,
+        "cost_price": 0
+      },
+      {
+        "sku": "1826",
+        "size": "XXL",
+        "price": 18000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10000,
+      "max": 18000
+    }
+  },
+  {
+    "title": "Short - COLEGIO LOS REYES",
+    "slug": "short-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Short",
+    "variants": [
+      {
+        "sku": "1904",
+        "size": "4",
+        "price": 4500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1906",
+        "size": "6",
+        "price": 4750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1908",
+        "size": "8",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1910",
+        "size": "10",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1912",
+        "size": "12",
+        "price": 5250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1914",
+        "size": "14",
+        "price": 5250,
+        "cost_price": 0
+      },
+      {
+        "sku": "1916",
+        "size": "16",
+        "price": 5500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1918",
+        "size": "S",
+        "price": 5500,
+        "cost_price": 0
+      },
+      {
+        "sku": "1920",
+        "size": "M",
+        "price": 5750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1922",
+        "size": "L",
+        "price": 5750,
+        "cost_price": 0
+      },
+      {
+        "sku": "1924",
+        "size": "XL",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "1926",
+        "size": "XXL",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "25004",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "25006",
+        "size": "6",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "25008",
+        "size": "8",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "25010",
+        "size": "10",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "25012",
+        "size": "12",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "25014",
+        "size": "14",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "25016",
+        "size": "16",
+        "price": 11300,
+        "cost_price": 0
+      },
+      {
+        "sku": "25018",
+        "size": "S",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "25020",
+        "size": "M",
+        "price": 11800,
+        "cost_price": 0
+      },
+      {
+        "sku": "25022",
+        "size": "L",
+        "price": 11800,
+        "cost_price": 0
+      },
+      {
+        "sku": "25024",
+        "size": "XL",
+        "price": 13500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4500,
+      "max": 13500
+    }
+  },
+  {
+    "title": "Delan Cuadrillé Rojo - VARIOS COLEGIOS",
+    "slug": "delan-cuadrill-rojo-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Delantal Cuadrillé Rojo",
+    "variants": [
+      {
+        "sku": "2004",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2006",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2008",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2010",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2012",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2014",
+        "size": "14",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2016",
+        "size": "16",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2018",
+        "size": "S",
+        "price": 16900,
+        "cost_price": 0
+      },
+      {
+        "sku": "2020",
+        "size": "M",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2022",
+        "size": "L",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2024",
+        "size": "XL",
+        "price": 20500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 20500
+    }
+  },
+  {
+    "title": "Parka - COLEGIO LOS REYES",
+    "slug": "parka-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Parka",
+    "variants": [
+      {
+        "sku": "2204",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2206",
+        "size": "6",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2208",
+        "size": "8",
+        "price": 14250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2210",
+        "size": "10",
+        "price": 14750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2212",
+        "size": "12",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2214",
+        "size": "14",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2216",
+        "size": "16",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2218",
+        "size": "S",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2220",
+        "size": "M",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2222",
+        "size": "L",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2224",
+        "size": "XL",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2226",
+        "size": "XXL",
+        "price": 17500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14000,
+      "max": 17500
+    }
+  },
+  {
+    "title": "Pan Buzo - COLEGIO LOS REYES",
+    "slug": "pan-buzo-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Pantalón Buzo",
+    "variants": [
+      {
+        "sku": "2304",
+        "size": "4",
+        "price": 6250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2306",
+        "size": "6",
+        "price": 6250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2308",
+        "size": "8",
+        "price": 6500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2310",
+        "size": "10",
+        "price": 6750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2312",
+        "size": "12",
+        "price": 7250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2314",
+        "size": "14",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2316",
+        "size": "16",
+        "price": 7750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2318",
+        "size": "S",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2320",
+        "size": "M",
+        "price": 8250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2322",
+        "size": "L",
+        "price": 8495,
+        "cost_price": 0
+      },
+      {
+        "sku": "2324",
+        "size": "XL",
+        "price": 8495,
+        "cost_price": 0
+      },
+      {
+        "sku": "2326",
+        "size": "XXL",
+        "price": 8495,
+        "cost_price": 0
+      },
+      {
+        "sku": "2328",
+        "size": "XXXL",
+        "price": 9000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6250,
+      "max": 9000
+    }
+  },
+  {
+    "title": "Chaque Buzo - COLEGIO LOS REYES",
+    "slug": "chaque-buzo-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Chaqueta Buzo",
+    "variants": [
+      {
+        "sku": "2404",
+        "size": "4",
+        "price": 7750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2406",
+        "size": "6",
+        "price": 7750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2408",
+        "size": "8",
+        "price": 8250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2410",
+        "size": "10",
+        "price": 8750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2412",
+        "size": "12",
+        "price": 8750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2414",
+        "size": "14",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2416",
+        "size": "16",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2418",
+        "size": "S",
+        "price": 9250,
+        "cost_price": 0
+      },
+      {
+        "sku": "2420",
+        "size": "M",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2422",
+        "size": "L",
+        "price": 9750,
+        "cost_price": 0
+      },
+      {
+        "sku": "2424",
+        "size": "XL",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2426",
+        "size": "XXL",
+        "price": 10000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7750,
+      "max": 10000
+    }
+  },
+  {
+    "title": "Co Beige - VARIOS COLEGIOS",
+    "slug": "co-beige-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Cotona Beige",
+    "variants": [
+      {
+        "sku": "2504",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2506",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2508",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2510",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2512",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2514",
+        "size": "14",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2516",
+        "size": "16",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2518",
+        "size": "S",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2520",
+        "size": "M",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "2522",
+        "size": "L",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2524",
+        "size": "XL",
+        "price": 20500,
+        "cost_price": 0
+      },
+      {
+        "sku": "2526",
+        "size": "XXL",
+        "price": 20500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 20500
+    }
+  },
+  {
+    "title": "Delan - VARIOS COLEGIOS",
+    "slug": "delan-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Delantal",
+    "variants": [
+      {
+        "sku": "3203",
+        "size": "3",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3204",
+        "size": "4",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3206",
+        "size": "6",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3208",
+        "size": "8",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3210",
+        "size": "10",
+        "price": 12000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10500,
+      "max": 12000
+    }
+  },
+  {
+    "title": "Co - VARIOS COLEGIOS",
+    "slug": "co-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Cotona",
+    "variants": [
+      {
+        "sku": "3302",
+        "size": "2",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "3303",
+        "size": "3",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "3304",
+        "size": "4",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3306",
+        "size": "6",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3308",
+        "size": "8",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3310",
+        "size": "10",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59204",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59206",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59208",
+        "size": "8",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59210",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59212",
+        "size": "12",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "98004",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98006",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98008",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98010",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98012",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98014",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98016",
+        "size": "16",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98018",
+        "size": "S",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "98020",
+        "size": "M",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "98022",
+        "size": "L",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98024",
+        "size": "XL",
+        "price": 20500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10000,
+      "max": 20500
+    }
+  },
+  {
+    "title": "calza Cor - VARIOS COLEGIOS",
+    "slug": "calza-cor-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "calza Corta",
+    "variants": [
+      {
+        "sku": "3412",
+        "size": "12",
+        "price": 8000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 8000
+    }
+  },
+  {
+    "title": "Calza Larga - SUEÑOS MAGICOS",
+    "slug": "calza-larga-sueos-magicos",
+    "college_id": 5,
+    "college_name": "SUEÑOS MAGICOS",
+    "base_article": "Calza Larga",
+    "variants": [
+      {
+        "sku": "3510",
+        "size": "10",
+        "price": 11300,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11300,
+      "max": 11300
+    }
+  },
+  {
+    "title": "Short - SOLRÍE",
+    "slug": "short-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Short",
+    "variants": [
+      {
+        "sku": "3602",
+        "size": "2",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3603",
+        "size": "3",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3604",
+        "size": "4",
+        "price": 7800,
+        "cost_price": 0
+      },
+      {
+        "sku": "3606",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3608",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "3610",
+        "size": "10",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "87002",
+        "size": "2",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "87003",
+        "size": "3",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "87004",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "87006",
+        "size": "6",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "87008",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6000,
+      "max": 8500
+    }
+  },
+  {
+    "title": "Polera Azul Manga Cor - NUEVO HORIZONTE",
+    "slug": "polera-azul-manga-cor-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Polera Azul Manga Corta",
+    "variants": [
+      {
+        "sku": "4104",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4106",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4108",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4110",
+        "size": "10",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4112",
+        "size": "12",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4114",
+        "size": "14",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4116",
+        "size": "16",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4118",
+        "size": "S",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4120",
+        "size": "M",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4122",
+        "size": "L",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4124",
+        "size": "XL",
+        "price": 11500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 11500
+    }
+  },
+  {
+    "title": "Polera Blanca MC - NUEVO HORIZONTE",
+    "slug": "polera-blanca-mc-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Polera Blanca MC",
+    "variants": [
+      {
+        "sku": "4304",
+        "size": "4",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4306",
+        "size": "6",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4308",
+        "size": "8",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4310",
+        "size": "10",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4312",
+        "size": "12",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4314",
+        "size": "14",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4316",
+        "size": "16",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4318",
+        "size": "S",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4320",
+        "size": "M",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4322",
+        "size": "L",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4324",
+        "size": "XL",
+        "price": 15500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11000,
+      "max": 15500
+    }
+  },
+  {
+    "title": "Polera blanca ML - NUEVO HORIZONTE",
+    "slug": "polera-blanca-ml-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Polera blanca ML",
+    "variants": [
+      {
+        "sku": "4404",
+        "size": "4",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "4420",
+        "size": "M",
+        "price": 17000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9800,
+      "max": 17000
+    }
+  },
+  {
+    "title": "Co Verde - NUEVO HORIZONTE",
+    "slug": "co-verde-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Cotona Verde",
+    "variants": [
+      {
+        "sku": "4504",
+        "size": "4",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4506",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4508",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4510",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4512",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4514",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4516",
+        "size": "16",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4518",
+        "size": "S",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4520",
+        "size": "M",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4522",
+        "size": "L",
+        "price": 17500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13000,
+      "max": 17500
+    }
+  },
+  {
+    "title": "Delan Cuadrille Verde - NUEVO HORIZONTE",
+    "slug": "delan-cuadrille-verde-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Delantal Cuadrille Verde",
+    "variants": [
+      {
+        "sku": "4604",
+        "size": "4",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4606",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4608",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4610",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4612",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4614",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4616",
+        "size": "16",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4618",
+        "size": "S",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4620",
+        "size": "M",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4622",
+        "size": "L",
+        "price": 15000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13000,
+      "max": 15000
+    }
+  },
+  {
+    "title": "Falda Escosesa - NUEVO HORIZONTE",
+    "slug": "falda-escosesa-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Falda Escosesa",
+    "variants": [
+      {
+        "sku": "4704",
+        "size": "4",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4706",
+        "size": "6",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4708",
+        "size": "8",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4710",
+        "size": "10",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4712",
+        "size": "12",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4714",
+        "size": "14",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4716",
+        "size": "16",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4718",
+        "size": "S",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4720",
+        "size": "M",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4722",
+        "size": "L",
+        "price": 19000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14500,
+      "max": 19000
+    }
+  },
+  {
+    "title": "Pan Buzo - NUEVO HORIZONTE",
+    "slug": "pan-buzo-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Pantalón Buzo",
+    "variants": [
+      {
+        "sku": "4804",
+        "size": "4",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4806",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4808",
+        "size": "8",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4810",
+        "size": "10",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4812",
+        "size": "12",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4814",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4816",
+        "size": "16",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4818",
+        "size": "S",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4820",
+        "size": "M",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4822",
+        "size": "L",
+        "price": 16000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11500,
+      "max": 16000
+    }
+  },
+  {
+    "title": "Chaque Buzo - NUEVO HORIZONTE",
+    "slug": "chaque-buzo-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "Chaqueta Buzo",
+    "variants": [
+      {
+        "sku": "4904",
+        "size": "4",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4906",
+        "size": "6",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4908",
+        "size": "8",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4910",
+        "size": "10",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4912",
+        "size": "12",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "4914",
+        "size": "14",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4916",
+        "size": "16",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4918",
+        "size": "S",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4920",
+        "size": "M",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4922",
+        "size": "L",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "4924",
+        "size": "XL",
+        "price": 18500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14500,
+      "max": 18500
+    }
+  },
+  {
+    "title": "Bolsi Kinder - COLEGIO LOS REYES",
+    "slug": "bolsi-kinder-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Bolsita Kinder",
+    "variants": [
+      {
+        "sku": "6001",
+        "size": "A",
+        "price": 7000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 7000
+    }
+  },
+  {
+    "title": "Jockey - VARIOS CODIGOS",
+    "slug": "jockey-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "Jockey ",
+    "variants": [
+      {
+        "sku": "6002",
+        "size": null,
+        "price": 5500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6003",
+        "size": null,
+        "price": 3500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 3500,
+      "max": 5500
+    }
+  },
+  {
+    "title": "Pan Casimir - VARIOS COLEGIOS",
+    "slug": "pan-casimir-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Pantalón Casimir",
+    "variants": [
+      {
+        "sku": "6004",
+        "size": "4",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6006",
+        "size": "6",
+        "price": 19000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6008",
+        "size": "8",
+        "price": 19500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6010",
+        "size": "10",
+        "price": 19500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6012",
+        "size": "12",
+        "price": 21000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6014",
+        "size": "14",
+        "price": 21000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6016",
+        "size": "16",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6018",
+        "size": "S",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6020",
+        "size": "M",
+        "price": 23000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6022",
+        "size": "L",
+        "price": 23000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6024",
+        "size": "XL",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6026",
+        "size": "XXL",
+        "price": 24000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 18000,
+      "max": 24000
+    }
+  },
+  {
+    "title": "BORDADO - VARIOS CODIGOS",
+    "slug": "bordado-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "BORDADO",
+    "variants": [
+      {
+        "sku": "6101",
+        "size": null,
+        "price": 3500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 3500,
+      "max": 3500
+    }
+  },
+  {
+    "title": "arreglos - VARIOS CODIGOS",
+    "slug": "arreglos-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "arreglos",
+    "variants": [
+      {
+        "sku": "6102",
+        "size": "URAS",
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 4000
+    }
+  },
+  {
+    "title": "gorro lana - VARIOS COLEGIOS",
+    "slug": "gorro-lana-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "gorro lana",
+    "variants": [
+      {
+        "sku": "6103",
+        "size": null,
+        "price": 4500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6104",
+        "size": null,
+        "price": 3000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 3000,
+      "max": 4500
+    }
+  },
+  {
+    "title": "Bordado - VARIOS CODIGOS",
+    "slug": "bordado-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "Bordado",
+    "variants": [
+      {
+        "sku": "6105",
+        "size": null,
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6111",
+        "size": null,
+        "price": 8000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 5000,
+      "max": 8000
+    }
+  },
+  {
+    "title": "nan - VARIOS COLEGIOS",
+    "slug": "nan-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "nan",
+    "variants": [
+      {
+        "sku": "6106",
+        "size": "ES",
+        "price": 2500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6202",
+        "size": null,
+        "price": 2000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6203",
+        "size": "AL",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9701",
+        "size": "A",
+        "price": 4000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9702",
+        "size": "A",
+        "price": 4000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9703",
+        "size": "A",
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 2000,
+      "max": 8000
+    }
+  },
+  {
+    "title": "Bas - VARIOS CODIGOS",
+    "slug": "bas-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "Bastas",
+    "variants": [
+      {
+        "sku": "6107",
+        "size": "A",
+        "price": 4000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6114",
+        "size": "A",
+        "price": 7000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 7000
+    }
+  },
+  {
+    "title": "Huinchas 5 nombres - VARIOS CODIGOS",
+    "slug": "huinchas-5-nombres-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "Huinchas 5 nombres",
+    "variants": [
+      {
+        "sku": "6108",
+        "size": null,
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 4000
+    }
+  },
+  {
+    "title": "Huinchas 10 nombres - VARIOS CODIGOS",
+    "slug": "huinchas-10-nombres-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "Huinchas 10 nombres",
+    "variants": [
+      {
+        "sku": "6109",
+        "size": null,
+        "price": 7000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 7000
+    }
+  },
+  {
+    "title": "bas - VARIOS CODIGOS",
+    "slug": "bas-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "bastas",
+    "variants": [
+      {
+        "sku": "6110",
+        "size": "A",
+        "price": 7000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 7000
+    }
+  },
+  {
+    "title": "cuello polar con logo - VARIOS COLEGIOS",
+    "slug": "cuello-polar-con-logo-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "cuello polar con logo",
+    "variants": [
+      {
+        "sku": "6112",
+        "size": null,
+        "price": 3500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 3500,
+      "max": 3500
+    }
+  },
+  {
+    "title": "cuello polar sin logo - VARIOS COLEGIOS",
+    "slug": "cuello-polar-sin-logo-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "cuello polar sin logo",
+    "variants": [
+      {
+        "sku": "6113",
+        "size": null,
+        "price": 3000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 3000,
+      "max": 3000
+    }
+  },
+  {
+    "title": "bas - VARIOS CODIGOS",
+    "slug": "bas-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "basta",
+    "variants": [
+      {
+        "sku": "6115",
+        "size": "A",
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 4000
+    }
+  },
+  {
+    "title": "Bas - VARIOS CODIGOS",
+    "slug": "bas-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "Basta",
+    "variants": [
+      {
+        "sku": "6116",
+        "size": "A",
+        "price": 5000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 5000,
+      "max": 5000
+    }
+  },
+  {
+    "title": "Polera pique - VARIOS COLEGIOS",
+    "slug": "polera-pique-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Polera pique",
+    "variants": [
+      {
+        "sku": "6117",
+        "size": null,
+        "price": 18000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 18000,
+      "max": 18000
+    }
+  },
+  {
+    "title": "arreglos - VARIOS COLEGIOS",
+    "slug": "arreglos-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "arreglos",
+    "variants": [
+      {
+        "sku": "6118",
+        "size": "AS",
+        "price": 5500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6119",
+        "size": "ALON",
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 5500
+    }
+  },
+  {
+    "title": "varios - VARIOS COLEGIOS",
+    "slug": "varios-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "varios",
+    "variants": [
+      {
+        "sku": "6120",
+        "size": "AS",
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 4000
+    }
+  },
+  {
+    "title": "nan - VARIOS CODIGOS",
+    "slug": "nan-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "nan",
+    "variants": [
+      {
+        "sku": "6210",
+        "size": null,
+        "price": 1000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9901",
+        "size": "ROS",
+        "price": 1,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 1,
+      "max": 1000
+    }
+  },
+  {
+    "title": "Pan Casimir - VARIOS COLEGIOS",
+    "slug": "pan-casimir-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Pantalon Casimir",
+    "variants": [
+      {
+        "sku": "6304",
+        "size": "4",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6308",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6310",
+        "size": "10",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6314",
+        "size": "14",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6340",
+        "size": "40",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6342",
+        "size": "42",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6344",
+        "size": "44",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6346",
+        "size": "46",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6348",
+        "size": "48",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6350",
+        "size": "50",
+        "price": 20000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6352",
+        "size": "52",
+        "price": 20000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6354",
+        "size": "54",
+        "price": 20000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13000,
+      "max": 20000
+    }
+  },
+  {
+    "title": "Pan Casimir - VARIOS COLEGIOS",
+    "slug": "pan-casimir-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Pantalon Casimir ",
+    "variants": [
+      {
+        "sku": "6306",
+        "size": "6",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6338",
+        "size": "38",
+        "price": 16500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13500,
+      "max": 16500
+    }
+  },
+  {
+    "title": "Pan - VARIOS COLEGIOS",
+    "slug": "pan-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "PantalonCasimir",
+    "variants": [
+      {
+        "sku": "6312",
+        "size": "12",
+        "price": 15000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 15000,
+      "max": 15000
+    }
+  },
+  {
+    "title": "Pan Colegio - VARIOS COLEGIOS",
+    "slug": "pan-colegio-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Pantalon Colegio",
+    "variants": [
+      {
+        "sku": "6316",
+        "size": "16",
+        "price": 15500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 15500,
+      "max": 15500
+    }
+  },
+  {
+    "title": "Polar azul Marino - VARIOS COLEGIOS",
+    "slug": "polar-azul-marino-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Polar azul Marino",
+    "variants": [
+      {
+        "sku": "6404",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6406",
+        "size": "6",
+        "price": 15300,
+        "cost_price": 0
+      },
+      {
+        "sku": "6408",
+        "size": "8",
+        "price": 15900,
+        "cost_price": 0
+      },
+      {
+        "sku": "6410",
+        "size": "10",
+        "price": 16400,
+        "cost_price": 0
+      },
+      {
+        "sku": "6412",
+        "size": "12",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6414",
+        "size": "14",
+        "price": 17600,
+        "cost_price": 0
+      },
+      {
+        "sku": "6416",
+        "size": "16",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6418",
+        "size": "S",
+        "price": 18700,
+        "cost_price": 0
+      },
+      {
+        "sku": "6420",
+        "size": "M",
+        "price": 19300,
+        "cost_price": 0
+      },
+      {
+        "sku": "6422",
+        "size": "L",
+        "price": 19300,
+        "cost_price": 0
+      },
+      {
+        "sku": "6424",
+        "size": "XL",
+        "price": 20400,
+        "cost_price": 0
+      },
+      {
+        "sku": "6426",
+        "size": "XXL",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6428",
+        "size": "XXXL",
+        "price": 24000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14000,
+      "max": 24000
+    }
+  },
+  {
+    "title": "Polar colores - VARIOS COLEGIOS",
+    "slug": "polar-colores-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Polar colores",
+    "variants": [
+      {
+        "sku": "6504",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6506",
+        "size": "6",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6508",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6510",
+        "size": "10",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6512",
+        "size": "12",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6514",
+        "size": "14",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6516",
+        "size": "16",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6518",
+        "size": "S",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6520",
+        "size": "M",
+        "price": 20000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6522",
+        "size": "L",
+        "price": 20000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6524",
+        "size": "XL",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6526",
+        "size": "XXL",
+        "price": 22000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14000,
+      "max": 22000
+    }
+  },
+  {
+    "title": "Co Cuadrille verde - VARIOS COLEGIOS",
+    "slug": "co-cuadrille-verde-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Cotona Cuadrille verde",
+    "variants": [
+      {
+        "sku": "6604",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6606",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6608",
+        "size": "8",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6610",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 13500
+    }
+  },
+  {
+    "title": "Delan - CIEC",
+    "slug": "delan-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Delantal",
+    "variants": [
+      {
+        "sku": "6702",
+        "size": "2",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6703",
+        "size": "3",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6704",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6706",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6708",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6710",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 13500
+    }
+  },
+  {
+    "title": "Pan Buzo - CIEC",
+    "slug": "pan-buzo-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Pantalón Buzo",
+    "variants": [
+      {
+        "sku": "6902",
+        "size": "2",
+        "price": 11300,
+        "cost_price": 0
+      },
+      {
+        "sku": "6903",
+        "size": "3",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6904",
+        "size": "4",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6906",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "6908",
+        "size": "8",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "6910",
+        "size": "10",
+        "price": 13000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11300,
+      "max": 13000
+    }
+  },
+  {
+    "title": "Chaque Buzo - CIEC",
+    "slug": "chaque-buzo-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Chaqueta Buzo",
+    "variants": [
+      {
+        "sku": "7002",
+        "size": "2",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7003",
+        "size": "3",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7004",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7006",
+        "size": "6",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7008",
+        "size": "8",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7010",
+        "size": "10",
+        "price": 14500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13500,
+      "max": 14500
+    }
+  },
+  {
+    "title": "Polera MC - CIEC",
+    "slug": "polera-mc-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Polera MC",
+    "variants": [
+      {
+        "sku": "7102",
+        "size": "2",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "7103",
+        "size": "3",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "7104",
+        "size": "4",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7106",
+        "size": "6",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7108",
+        "size": "8",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7110",
+        "size": "10",
+        "price": 11500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10800,
+      "max": 11500
+    }
+  },
+  {
+    "title": "Polera ML - CIEC",
+    "slug": "polera-ml-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Polera ML",
+    "variants": [
+      {
+        "sku": "7202",
+        "size": "2",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "7203",
+        "size": "3",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7204",
+        "size": "4",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7206",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7208",
+        "size": "8",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7210",
+        "size": "10",
+        "price": 12500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10200,
+      "max": 12500
+    }
+  },
+  {
+    "title": "Co - CIEC",
+    "slug": "co-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Cotona",
+    "variants": [
+      {
+        "sku": "7302",
+        "size": "2",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7303",
+        "size": "3",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7304",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7306",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7308",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7310",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 13500
+    }
+  },
+  {
+    "title": "Polar Rojo - CIEC",
+    "slug": "polar-rojo-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Polar Rojo",
+    "variants": [
+      {
+        "sku": "7402",
+        "size": "2",
+        "price": 14700,
+        "cost_price": 0
+      },
+      {
+        "sku": "7403",
+        "size": "3",
+        "price": 14700,
+        "cost_price": 0
+      },
+      {
+        "sku": "7404",
+        "size": "4",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7406",
+        "size": "6",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7408",
+        "size": "8",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7410",
+        "size": "10",
+        "price": 15500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14500,
+      "max": 15500
+    }
+  },
+  {
+    "title": "Calza Cor - CIEC",
+    "slug": "calza-cor-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Calza Corta",
+    "variants": [
+      {
+        "sku": "7502",
+        "size": "2",
+        "price": 6500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7503",
+        "size": "3",
+        "price": 6500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7504",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7506",
+        "size": "6",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7508",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7510",
+        "size": "10",
+        "price": 8000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6500,
+      "max": 8000
+    }
+  },
+  {
+    "title": "Calza Larga - CIEC",
+    "slug": "calza-larga-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Calza Larga",
+    "variants": [
+      {
+        "sku": "7602",
+        "size": "2",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7603",
+        "size": "3",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7604",
+        "size": "4",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7606",
+        "size": "6",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7608",
+        "size": "8",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7610",
+        "size": "10",
+        "price": 11000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9000,
+      "max": 11000
+    }
+  },
+  {
+    "title": "Short - CIEC",
+    "slug": "short-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Short",
+    "variants": [
+      {
+        "sku": "7702",
+        "size": "2",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7703",
+        "size": "3",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7704",
+        "size": "4",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7706",
+        "size": "6",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7708",
+        "size": "8",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7710",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 10000
+    }
+  },
+  {
+    "title": "nan - CIEC",
+    "slug": "nan-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "nan",
+    "variants": [
+      {
+        "sku": "7801",
+        "size": null,
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 4000
+    }
+  },
+  {
+    "title": "Parka Ciecc - CIEC",
+    "slug": "parka-ciecc-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Parka Ciecc",
+    "variants": [
+      {
+        "sku": "7803",
+        "size": "3",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7804",
+        "size": "4",
+        "price": 23000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7806",
+        "size": "6",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "7808",
+        "size": "8",
+        "price": 24500,
+        "cost_price": 0
+      },
+      {
+        "sku": "7810",
+        "size": "10",
+        "price": 24800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 22000,
+      "max": 24800
+    }
+  },
+  {
+    "title": "Bolsi Kinder - CIEC",
+    "slug": "bolsi-kinder-ciec",
+    "college_id": 4,
+    "college_name": "CIEC",
+    "base_article": "Bolsita Kinder",
+    "variants": [
+      {
+        "sku": "7900",
+        "size": "A",
+        "price": 5700,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 5700,
+      "max": 5700
+    }
+  },
+  {
+    "title": "Polera MC - SOLRÍE",
+    "slug": "polera-mc-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Polera MC",
+    "variants": [
+      {
+        "sku": "8102",
+        "size": "2",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8103",
+        "size": "3",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8104",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8106",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8108",
+        "size": "8",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8110",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9000,
+      "max": 10000
+    }
+  },
+  {
+    "title": "Polera ML - SOLRÍE",
+    "slug": "polera-ml-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Polera ML",
+    "variants": [
+      {
+        "sku": "8202",
+        "size": "2",
+        "price": 11100,
+        "cost_price": 0
+      },
+      {
+        "sku": "8203",
+        "size": "3",
+        "price": 11100,
+        "cost_price": 0
+      },
+      {
+        "sku": "8204",
+        "size": "4",
+        "price": 11800,
+        "cost_price": 0
+      },
+      {
+        "sku": "8206",
+        "size": "6",
+        "price": 11800,
+        "cost_price": 0
+      },
+      {
+        "sku": "8208",
+        "size": "8",
+        "price": 12400,
+        "cost_price": 0
+      },
+      {
+        "sku": "8210",
+        "size": "10",
+        "price": 12800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11100,
+      "max": 12800
+    }
+  },
+  {
+    "title": "Pan Buzo - SOLRÍE",
+    "slug": "pan-buzo-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Pantalón Buzo",
+    "variants": [
+      {
+        "sku": "8302",
+        "size": "2",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8303",
+        "size": "3",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8304",
+        "size": "4",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8306",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8308",
+        "size": "8",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8310",
+        "size": "10",
+        "price": 12500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11500,
+      "max": 12500
+    }
+  },
+  {
+    "title": "Polerón Buzo - SOLRÍE",
+    "slug": "polern-buzo-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Polerón Buzo",
+    "variants": [
+      {
+        "sku": "8402",
+        "size": "2",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8403",
+        "size": "3",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8404",
+        "size": "4",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8406",
+        "size": "6",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8408",
+        "size": "8",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8410",
+        "size": "10",
+        "price": 14800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14000,
+      "max": 14800
+    }
+  },
+  {
+    "title": "Delan - SOLRÍE",
+    "slug": "delan-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Delantal",
+    "variants": [
+      {
+        "sku": "8502",
+        "size": "2",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8503",
+        "size": "3",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8504",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8506",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8508",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8510",
+        "size": "10",
+        "price": 8800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 10000
+    }
+  },
+  {
+    "title": "Co - SOLRÍE",
+    "slug": "co-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Cotona",
+    "variants": [
+      {
+        "sku": "8602",
+        "size": "2",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8603",
+        "size": "3",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8604",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8606",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8608",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "8610",
+        "size": "10",
+        "price": 8800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 10000
+    }
+  },
+  {
+    "title": "Polar Azul - SOLRÍE",
+    "slug": "polar-azul-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Polar Azul",
+    "variants": [
+      {
+        "sku": "8702",
+        "size": "2",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8703",
+        "size": "3",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "8704",
+        "size": "4",
+        "price": 14700,
+        "cost_price": 0
+      },
+      {
+        "sku": "8706",
+        "size": "6",
+        "price": 15300,
+        "cost_price": 0
+      },
+      {
+        "sku": "8708",
+        "size": "8",
+        "price": 15900,
+        "cost_price": 0
+      },
+      {
+        "sku": "8710",
+        "size": "10",
+        "price": 15900,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10000,
+      "max": 15900
+    }
+  },
+  {
+    "title": "Polera Pique - JUAN XXIII",
+    "slug": "polera-pique-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Polera Pique",
+    "variants": [
+      {
+        "sku": "9104",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9106",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9108",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9110",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9112",
+        "size": "12",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9114",
+        "size": "14",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9116",
+        "size": "16",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9118",
+        "size": "S",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9120",
+        "size": "M",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9122",
+        "size": "L",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9124",
+        "size": "XL",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9126",
+        "size": "XXL",
+        "price": 15500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 15500
+    }
+  },
+  {
+    "title": "Polera Polo - JUAN XXIII",
+    "slug": "polera-polo-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Polera Polo",
+    "variants": [
+      {
+        "sku": "9204",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9206",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9208",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9210",
+        "size": "10",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9212",
+        "size": "12",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9214",
+        "size": "14",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9216",
+        "size": "16",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9218",
+        "size": "S",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9220",
+        "size": "M",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9222",
+        "size": "L",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9224",
+        "size": "XL",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9226",
+        "size": "XXL",
+        "price": 10500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 10500
+    }
+  },
+  {
+    "title": "Pan Buzo - JUAN XXIII",
+    "slug": "pan-buzo-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Pantalón Buzo",
+    "variants": [
+      {
+        "sku": "9304",
+        "size": "4",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9306",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9308",
+        "size": "8",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9310",
+        "size": "10",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9312",
+        "size": "12",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9314",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9316",
+        "size": "16",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9318",
+        "size": "S",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9320",
+        "size": "M",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9322",
+        "size": "L",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9324",
+        "size": "XL",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9326",
+        "size": "XXL",
+        "price": 17000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11500,
+      "max": 17000
+    }
+  },
+  {
+    "title": "Chaque Buzo - JUAN XXIII",
+    "slug": "chaque-buzo-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Chaqueta Buzo",
+    "variants": [
+      {
+        "sku": "9404",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9406",
+        "size": "6",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9408",
+        "size": "8",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9410",
+        "size": "10",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9412",
+        "size": "12",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9414",
+        "size": "14",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9416",
+        "size": "16",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9418",
+        "size": "S",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9420",
+        "size": "M",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9422",
+        "size": "L",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9424",
+        "size": "XL",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9426",
+        "size": "XXL",
+        "price": 19500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14000,
+      "max": 19500
+    }
+  },
+  {
+    "title": "Delan Celes - JUAN XXIII",
+    "slug": "delan-celes-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Delantal Celeste",
+    "variants": [
+      {
+        "sku": "9504",
+        "size": "4",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "9506",
+        "size": "6",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "9508",
+        "size": "8",
+        "price": 11100,
+        "cost_price": 0
+      },
+      {
+        "sku": "9510",
+        "size": "10",
+        "price": 11300,
+        "cost_price": 0
+      },
+      {
+        "sku": "9512",
+        "size": "12",
+        "price": 11300,
+        "cost_price": 0
+      },
+      {
+        "sku": "9514",
+        "size": "14",
+        "price": 11900,
+        "cost_price": 0
+      },
+      {
+        "sku": "9516",
+        "size": "16",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9518",
+        "size": "S",
+        "price": 14700,
+        "cost_price": 0
+      },
+      {
+        "sku": "9520",
+        "size": "M",
+        "price": 15300,
+        "cost_price": 0
+      },
+      {
+        "sku": "9522",
+        "size": "L",
+        "price": 15900,
+        "cost_price": 0
+      },
+      {
+        "sku": "9524",
+        "size": "XL",
+        "price": 16400,
+        "cost_price": 0
+      },
+      {
+        "sku": "9526",
+        "size": "XXL",
+        "price": 18500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10200,
+      "max": 18500
+    }
+  },
+  {
+    "title": "Short - JUAN XXIII",
+    "slug": "short-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Short",
+    "variants": [
+      {
+        "sku": "9606",
+        "size": "6",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9608",
+        "size": "8",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "9610",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9612",
+        "size": "12",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "9614",
+        "size": "14",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9616",
+        "size": "16",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9618",
+        "size": "S",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9620",
+        "size": "M",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9622",
+        "size": "L",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "9624",
+        "size": "XL",
+        "price": 14800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9500,
+      "max": 14800
+    }
+  },
+  {
+    "title": "Bolsi kinder azul marino - JUAN XXIII",
+    "slug": "bolsi-kinder-azul-marino-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Bolsita kinder azul marino",
+    "variants": [
+      {
+        "sku": "9700",
+        "size": "A",
+        "price": 6000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6000,
+      "max": 6000
+    }
+  },
+  {
+    "title": "bolsi azul marino chica - JUAN XXIII",
+    "slug": "bolsi-azul-marino-chica-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "bolsita azul marino chica",
+    "variants": [
+      {
+        "sku": "9704",
+        "size": "A",
+        "price": 4000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 4000,
+      "max": 4000
+    }
+  },
+  {
+    "title": "Parkas - JUAN XXIII",
+    "slug": "parkas-juan-xxiii",
+    "college_id": 2,
+    "college_name": "JUAN XXIII",
+    "base_article": "Parkas",
+    "variants": [
+      {
+        "sku": "9706",
+        "size": "6",
+        "price": 34000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9708",
+        "size": "8",
+        "price": 34000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9710",
+        "size": "10",
+        "price": 35000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9712",
+        "size": "12",
+        "price": 36000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9714",
+        "size": "14",
+        "price": 38000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9716",
+        "size": "16",
+        "price": 39000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9718",
+        "size": "S",
+        "price": 40000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9720",
+        "size": "M",
+        "price": 42000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9722",
+        "size": "L",
+        "price": 43000,
+        "cost_price": 0
+      },
+      {
+        "sku": "9724",
+        "size": "XL",
+        "price": 44000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 34000,
+      "max": 44000
+    }
+  },
+  {
+    "title": "1 - VARIOS CODIGOS",
+    "slug": "1-varios-codigos",
+    "college_id": 10,
+    "college_name": "VARIOS CODIGOS",
+    "base_article": "1",
+    "variants": [
+      {
+        "sku": "9999",
+        "size": null,
+        "price": 1,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "title": "Chaqu - NAHUEL",
+    "slug": "chaqu-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Chaquta",
+    "variants": [
+      {
+        "sku": "10102",
+        "size": "2",
+        "price": 12000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 12000
+    }
+  },
+  {
+    "title": "Chaque - NAHUEL",
+    "slug": "chaque-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Chaqueta",
+    "variants": [
+      {
+        "sku": "10103",
+        "size": "3",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10104",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10106",
+        "size": "6",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10108",
+        "size": "8",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10110",
+        "size": "ALLA10",
+        "price": 14800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 14800
+    }
+  },
+  {
+    "title": "Pan - NAHUEL",
+    "slug": "pan-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Pantalón",
+    "variants": [
+      {
+        "sku": "10202",
+        "size": "2",
+        "price": 11100,
+        "cost_price": 0
+      },
+      {
+        "sku": "10203",
+        "size": "3",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10204",
+        "size": "4",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10206",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10208",
+        "size": "8",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10210",
+        "size": "10",
+        "price": 12000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 11100,
+      "max": 12000
+    }
+  },
+  {
+    "title": "Polera - NAHUEL",
+    "slug": "polera-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Polera ",
+    "variants": [
+      {
+        "sku": "10302",
+        "size": "2",
+        "price": 8800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8800,
+      "max": 8800
+    }
+  },
+  {
+    "title": "Polera Piqué - NAHUEL",
+    "slug": "polera-piqu-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Polera Piqué",
+    "variants": [
+      {
+        "sku": "10303",
+        "size": "3",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10304",
+        "size": "4",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10306",
+        "size": "6",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10308",
+        "size": "8",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10310",
+        "size": "10",
+        "price": 11500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10403",
+        "size": "3",
+        "price": 11100,
+        "cost_price": 0
+      },
+      {
+        "sku": "10404",
+        "size": "4",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10406",
+        "size": "6",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10408",
+        "size": "8",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10410",
+        "size": "10",
+        "price": 12500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10000,
+      "max": 12500
+    }
+  },
+  {
+    "title": "Polera pique - NAHUEL",
+    "slug": "polera-pique-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Polera pique",
+    "variants": [
+      {
+        "sku": "10402",
+        "size": "2",
+        "price": 9800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9800,
+      "max": 9800
+    }
+  },
+  {
+    "title": "nan",
+    "slug": "nan",
+    "college_id": null,
+    "college_name": "Genérico",
+    "base_article": "nan",
+    "variants": [
+      {
+        "sku": "10502",
+        "size": "2",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10510",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10602",
+        "size": "2",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10610",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "10702",
+        "size": "2",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50004",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50006",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50008",
+        "size": "8",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50010",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50012",
+        "size": "12",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50014",
+        "size": "14",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50016",
+        "size": "16",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50018",
+        "size": "S",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50020",
+        "size": "M",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "50022",
+        "size": "L",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "51004",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "51006",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "51008",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "51010",
+        "size": "10",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "51012",
+        "size": "12",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "51014",
+        "size": "14",
+        "price": 9300,
+        "cost_price": 0
+      },
+      {
+        "sku": "51016",
+        "size": "16",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "51018",
+        "size": "S",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "51020",
+        "size": "M",
+        "price": 11800,
+        "cost_price": 0
+      },
+      {
+        "sku": "51022",
+        "size": "L",
+        "price": 12300,
+        "cost_price": 0
+      },
+      {
+        "sku": "51024",
+        "size": "XL",
+        "price": 12800,
+        "cost_price": 0
+      },
+      {
+        "sku": "52004",
+        "size": "4",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "52006",
+        "size": "6",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "52008",
+        "size": "8",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "52010",
+        "size": "10",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "52012",
+        "size": "12",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "52014",
+        "size": "14",
+        "price": 10300,
+        "cost_price": 0
+      },
+      {
+        "sku": "52016",
+        "size": "16",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "52018",
+        "size": "S",
+        "price": 11800,
+        "cost_price": 0
+      },
+      {
+        "sku": "52020",
+        "size": "M",
+        "price": 12800,
+        "cost_price": 0
+      },
+      {
+        "sku": "52022",
+        "size": "L",
+        "price": 13300,
+        "cost_price": 0
+      },
+      {
+        "sku": "53004",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "53006",
+        "size": "6",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "53008",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "53010",
+        "size": "10",
+        "price": 7800,
+        "cost_price": 0
+      },
+      {
+        "sku": "53012",
+        "size": "12",
+        "price": 7800,
+        "cost_price": 0
+      },
+      {
+        "sku": "53014",
+        "size": "14",
+        "price": 8300,
+        "cost_price": 0
+      },
+      {
+        "sku": "53016",
+        "size": "16",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "53018",
+        "size": "S",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "53020",
+        "size": "M",
+        "price": 9300,
+        "cost_price": 0
+      },
+      {
+        "sku": "53022",
+        "size": "L",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "54004",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "54006",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "54008",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "54010",
+        "size": "10",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "54012",
+        "size": "12",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "54014",
+        "size": "14",
+        "price": 9300,
+        "cost_price": 0
+      },
+      {
+        "sku": "54016",
+        "size": "16",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "54018",
+        "size": "S",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "54020",
+        "size": "M",
+        "price": 10300,
+        "cost_price": 0
+      },
+      {
+        "sku": "54022",
+        "size": "L",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "55004",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55006",
+        "size": "6",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55008",
+        "size": "8",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55010",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55012",
+        "size": "12",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55014",
+        "size": "14",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55016",
+        "size": "16",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55018",
+        "size": "S",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55020",
+        "size": "M",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "55022",
+        "size": "L",
+        "price": 21800,
+        "cost_price": 0
+      },
+      {
+        "sku": "56004",
+        "size": "4",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56006",
+        "size": "6",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56008",
+        "size": "8",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56010",
+        "size": "10",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56012",
+        "size": "12",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56014",
+        "size": "14",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56016",
+        "size": "16",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56018",
+        "size": "S",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56020",
+        "size": "M",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56022",
+        "size": "L",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "56024",
+        "size": "XL",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57004",
+        "size": "4",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57006",
+        "size": "6",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57008",
+        "size": "8",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57010",
+        "size": "10",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57012",
+        "size": "12",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57014",
+        "size": "14",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57016",
+        "size": "16",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57018",
+        "size": "S",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57020",
+        "size": "M",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57022",
+        "size": "L",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "57024",
+        "size": "XL",
+        "price": 5000,
+        "cost_price": 0
+      },
+      {
+        "sku": "99003",
+        "size": "3",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "99004",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "99006",
+        "size": "6",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "99008",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 5000,
+      "max": 21800
+    }
+  },
+  {
+    "title": "Delan - NAHUEL",
+    "slug": "delan-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Delantal",
+    "variants": [
+      {
+        "sku": "10503",
+        "size": "3",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "10504",
+        "size": "4",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "10506",
+        "size": "6",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "10508",
+        "size": "8",
+        "price": 11100,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10200,
+      "max": 11100
+    }
+  },
+  {
+    "title": "Co - NAHUEL",
+    "slug": "co-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Cotona",
+    "variants": [
+      {
+        "sku": "10603",
+        "size": "3",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "10604",
+        "size": "4",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "10606",
+        "size": "6",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "10608",
+        "size": "8",
+        "price": 11100,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 10200,
+      "max": 11100
+    }
+  },
+  {
+    "title": "Polerón - NAHUEL",
+    "slug": "polern-nahuel",
+    "college_id": 8,
+    "college_name": "NAHUEL",
+    "base_article": "Polerón",
+    "variants": [
+      {
+        "sku": "10703",
+        "size": "3",
+        "price": 14700,
+        "cost_price": 0
+      },
+      {
+        "sku": "10704",
+        "size": "4",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "10706",
+        "size": "6",
+        "price": 15300,
+        "cost_price": 0
+      },
+      {
+        "sku": "10708",
+        "size": "8",
+        "price": 15900,
+        "cost_price": 0
+      },
+      {
+        "sku": "10710",
+        "size": "10",
+        "price": 15900,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 14500,
+      "max": 15900
+    }
+  },
+  {
+    "title": "nan",
+    "slug": "nan",
+    "college_id": 0,
+    "college_name": "Genérico",
+    "base_article": "nan",
+    "variants": [
+      {
+        "sku": "12003",
+        "size": "3",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12004",
+        "size": "4",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12006",
+        "size": "6",
+        "price": 23000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12008",
+        "size": "8",
+        "price": 23000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12010",
+        "size": "10",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12103",
+        "size": "3",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12104",
+        "size": "4",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12106",
+        "size": "6",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "12108",
+        "size": "8",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "12110",
+        "size": "ALON",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "12203",
+        "size": "3",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12204",
+        "size": "4",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12206",
+        "size": "6",
+        "price": 9,
+        "cost_price": 0
+      },
+      {
+        "sku": "12208",
+        "size": "8",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12210",
+        "size": "10",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12303",
+        "size": "3",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12304",
+        "size": "4",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12306",
+        "size": "6",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12308",
+        "size": "8",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12310",
+        "size": "10",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12403",
+        "size": "3",
+        "price": 13900,
+        "cost_price": 0
+      },
+      {
+        "sku": "12404",
+        "size": "4",
+        "price": 13900,
+        "cost_price": 0
+      },
+      {
+        "sku": "12406",
+        "size": "6",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "12408",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "12410",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "96003",
+        "size": "A",
+        "price": 5100,
+        "cost_price": 0
+      },
+      {
+        "sku": "96004",
+        "size": "A",
+        "price": 4500,
+        "cost_price": 0
+      },
+      {
+        "sku": "96005",
+        "size": "A",
+        "price": 5000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9,
+      "max": 24000
+    }
+  },
+  {
+    "title": "Shor - COLEGIO LOS REYES",
+    "slug": "shor-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Short Niña",
+    "variants": [
+      {
+        "sku": "19104",
+        "size": "NIÑA",
+        "price": 5750,
+        "cost_price": 0
+      },
+      {
+        "sku": "19106",
+        "size": "NIÑA",
+        "price": 5750,
+        "cost_price": 0
+      },
+      {
+        "sku": "19108",
+        "size": "NIÑA",
+        "price": 6250,
+        "cost_price": 0
+      },
+      {
+        "sku": "19110",
+        "size": "NIÑA",
+        "price": 6250,
+        "cost_price": 0
+      },
+      {
+        "sku": "19112",
+        "size": "NIÑA",
+        "price": 6250,
+        "cost_price": 0
+      },
+      {
+        "sku": "19114",
+        "size": "NIÑA",
+        "price": 6500,
+        "cost_price": 0
+      },
+      {
+        "sku": "19116",
+        "size": "NIÑA",
+        "price": 6500,
+        "cost_price": 0
+      },
+      {
+        "sku": "19118",
+        "size": "NIÑA",
+        "price": 6750,
+        "cost_price": 0
+      },
+      {
+        "sku": "19120",
+        "size": "NIÑA",
+        "price": 7250,
+        "cost_price": 0
+      },
+      {
+        "sku": "19122",
+        "size": "NIÑA",
+        "price": 7250,
+        "cost_price": 0
+      },
+      {
+        "sku": "19124",
+        "size": "NIÑA",
+        "price": 7750,
+        "cost_price": 0
+      },
+      {
+        "sku": "19126",
+        "size": "NIÑA",
+        "price": 7750,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 5750,
+      "max": 7750
+    }
+  },
+  {
+    "title": "Polera Manga Cor - YERPUN - MONTESORI",
+    "slug": "polera-manga-cor-yerpun-montesori",
+    "college_id": 9,
+    "college_name": "YERPUN - MONTESORI",
+    "base_article": "Polera Manga Corta",
+    "variants": [
+      {
+        "sku": "31004",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31006",
+        "size": "6",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31008",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31010",
+        "size": "10",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31012",
+        "size": "12",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31014",
+        "size": "14",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31016",
+        "size": "16",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "31018",
+        "size": "S",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31020",
+        "size": "M",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "31022",
+        "size": "L",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "41004",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "41006",
+        "size": "6",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "41008",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "41010",
+        "size": "10",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "41012",
+        "size": "12",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "41014",
+        "size": "14",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "41016",
+        "size": "16",
+        "price": 8800,
+        "cost_price": 0
+      },
+      {
+        "sku": "41018",
+        "size": "S",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "41020",
+        "size": "M",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "41022",
+        "size": "L",
+        "price": 10000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 10000
+    }
+  },
+  {
+    "title": "Polera Manga Larga - YERPUN - MONTESORI",
+    "slug": "polera-manga-larga-yerpun-montesori",
+    "college_id": 9,
+    "college_name": "YERPUN - MONTESORI",
+    "base_article": "Polera Manga Larga",
+    "variants": [
+      {
+        "sku": "32004",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32006",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32008",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32010",
+        "size": "10",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32012",
+        "size": "12",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32014",
+        "size": "14",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32016",
+        "size": "16",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "32018",
+        "size": "S",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32020",
+        "size": "M",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "32022",
+        "size": "L",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "42004",
+        "size": "4",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "42006",
+        "size": "6",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "42008",
+        "size": "8",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "42010",
+        "size": "10",
+        "price": 8500,
+        "cost_price": 0
+      },
+      {
+        "sku": "42012",
+        "size": "12",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "42014",
+        "size": "14",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "42016",
+        "size": "16",
+        "price": 9800,
+        "cost_price": 0
+      },
+      {
+        "sku": "42018",
+        "size": "S",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "42020",
+        "size": "M",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "42022",
+        "size": "L",
+        "price": 11000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 11000
+    }
+  },
+  {
+    "title": "Pan - YERPUN - MONTESORI",
+    "slug": "pan-yerpun-montesori",
+    "college_id": 9,
+    "college_name": "YERPUN - MONTESORI",
+    "base_article": "Pantalón",
+    "variants": [
+      {
+        "sku": "33004",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "33006",
+        "size": "6",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "33008",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "33010",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "33012",
+        "size": "12",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "33014",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "33016",
+        "size": "16",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "33018",
+        "size": "S",
+        "price": 14800,
+        "cost_price": 0
+      },
+      {
+        "sku": "33020",
+        "size": "M",
+        "price": 14800,
+        "cost_price": 0
+      },
+      {
+        "sku": "33022",
+        "size": "L",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43004",
+        "size": "4",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43008",
+        "size": "8",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43010",
+        "size": "10",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43012",
+        "size": "12",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43014",
+        "size": "14",
+        "price": 7000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 15000
+    }
+  },
+  {
+    "title": "Polerón - YERPUN - MONTESORI",
+    "slug": "polern-yerpun-montesori",
+    "college_id": 9,
+    "college_name": "YERPUN - MONTESORI",
+    "base_article": "Polerón",
+    "variants": [
+      {
+        "sku": "34004",
+        "size": "4",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "34006",
+        "size": "6",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "34008",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "34010",
+        "size": "10",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "34012",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "34014",
+        "size": "14",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "34016",
+        "size": "16",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "34018",
+        "size": "S",
+        "price": 16800,
+        "cost_price": 0
+      },
+      {
+        "sku": "34020",
+        "size": "M",
+        "price": 16800,
+        "cost_price": 0
+      },
+      {
+        "sku": "34022",
+        "size": "L",
+        "price": 16800,
+        "cost_price": 0
+      },
+      {
+        "sku": "34024",
+        "size": "XL",
+        "price": 17800,
+        "cost_price": 0
+      },
+      {
+        "sku": "44004",
+        "size": "4",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "44006",
+        "size": "6",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "44008",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "44010",
+        "size": "10",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "44012",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "44014",
+        "size": "14",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "44016",
+        "size": "16",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "44018",
+        "size": "S",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "44020",
+        "size": "M",
+        "price": 16800,
+        "cost_price": 0
+      },
+      {
+        "sku": "44022",
+        "size": "L",
+        "price": 16800,
+        "cost_price": 0
+      },
+      {
+        "sku": "44024",
+        "size": "XL",
+        "price": 17800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 17800
+    }
+  },
+  {
+    "title": "Calza Gris - VARIOS COLEGIOS",
+    "slug": "calza-gris-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Calza Gris",
+    "variants": [
+      {
+        "sku": "35004",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "35006",
+        "size": "6",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "35008",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "35010",
+        "size": "10",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "35012",
+        "size": "12",
+        "price": 9100,
+        "cost_price": 0
+      },
+      {
+        "sku": "35014",
+        "size": "14",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "35016",
+        "size": "16",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "35018",
+        "size": "S",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "35020",
+        "size": "M",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "35022",
+        "size": "L",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "35024",
+        "size": "XL",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "36004",
+        "size": "4",
+        "price": 9100,
+        "cost_price": 0
+      },
+      {
+        "sku": "36006",
+        "size": "6",
+        "price": 9600,
+        "cost_price": 0
+      },
+      {
+        "sku": "36008",
+        "size": "8",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "36010",
+        "size": "10",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "36012",
+        "size": "12",
+        "price": 11300,
+        "cost_price": 0
+      },
+      {
+        "sku": "36014",
+        "size": "14",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "36016",
+        "size": "16",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "36018",
+        "size": "S",
+        "price": 13600,
+        "cost_price": 0
+      },
+      {
+        "sku": "36020",
+        "size": "M",
+        "price": 14200,
+        "cost_price": 0
+      },
+      {
+        "sku": "36022",
+        "size": "L",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "36024",
+        "size": "XL",
+        "price": 18000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 18000
+    }
+  },
+  {
+    "title": "Polar - YERPUN - MONTESORI",
+    "slug": "polar-yerpun-montesori",
+    "college_id": 9,
+    "college_name": "YERPUN - MONTESORI",
+    "base_article": "Polar",
+    "variants": [
+      {
+        "sku": "37004",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37006",
+        "size": "6",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37008",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37010",
+        "size": "10",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37012",
+        "size": "12",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37014",
+        "size": "14",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37016",
+        "size": "16",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37018",
+        "size": "S",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37020",
+        "size": "M",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37022",
+        "size": "L",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "37024",
+        "size": "XL",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47004",
+        "size": "4",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47006",
+        "size": "6",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47008",
+        "size": "8",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47010",
+        "size": "10",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47012",
+        "size": "12",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47014",
+        "size": "14",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47016",
+        "size": "16",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47018",
+        "size": "S",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47020",
+        "size": "M",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47022",
+        "size": "L",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "47024",
+        "size": "XL",
+        "price": 22000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 22000
+    }
+  },
+  {
+    "title": "Parka - YERPUN - MONTESORI",
+    "slug": "parka-yerpun-montesori",
+    "college_id": 9,
+    "college_name": "YERPUN - MONTESORI",
+    "base_article": "Parka",
+    "variants": [
+      {
+        "sku": "38004",
+        "size": "4",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38006",
+        "size": "6",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38008",
+        "size": "8",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38010",
+        "size": "10",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38012",
+        "size": "12",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38014",
+        "size": "14",
+        "price": 26000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38016",
+        "size": "16",
+        "price": 26000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38018",
+        "size": "S",
+        "price": 27000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38020",
+        "size": "M",
+        "price": 27000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38022",
+        "size": "L",
+        "price": 28000,
+        "cost_price": 0
+      },
+      {
+        "sku": "38024",
+        "size": "XL",
+        "price": 28000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48004",
+        "size": "4",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48006",
+        "size": "6",
+        "price": 22000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48008",
+        "size": "8",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48010",
+        "size": "10",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48012",
+        "size": "12",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48014",
+        "size": "14",
+        "price": 26000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48016",
+        "size": "16",
+        "price": 26000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48018",
+        "size": "S",
+        "price": 27000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48020",
+        "size": "M",
+        "price": 27000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48022",
+        "size": "L",
+        "price": 28000,
+        "cost_price": 0
+      },
+      {
+        "sku": "48024",
+        "size": "XL",
+        "price": 28000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 22000,
+      "max": 28000
+    }
+  },
+  {
+    "title": "Pan - VARIOS COLEGIOS",
+    "slug": "pan-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Pantalón",
+    "variants": [
+      {
+        "sku": "43006",
+        "size": "6",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43016",
+        "size": "16",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "43018",
+        "size": "S",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43020",
+        "size": "M",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "43022",
+        "size": "L",
+        "price": 7000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6000,
+      "max": 14500
+    }
+  },
+  {
+    "title": "Falda - VARIOS COLEGIOS",
+    "slug": "falda-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Falda",
+    "variants": [
+      {
+        "sku": "58004",
+        "size": "4",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "58006",
+        "size": "6",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "58008",
+        "size": "8",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "58010",
+        "size": "10",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "58012",
+        "size": "12",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "58014",
+        "size": "14",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "58016",
+        "size": "16",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "58018",
+        "size": "S",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "58020",
+        "size": "M",
+        "price": 19500,
+        "cost_price": 0
+      },
+      {
+        "sku": "58022",
+        "size": "L",
+        "price": 20000,
+        "cost_price": 0
+      },
+      {
+        "sku": "58024",
+        "size": "XL",
+        "price": 21500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 16500,
+      "max": 21500
+    }
+  },
+  {
+    "title": "Delan - VARIOS COLEGIOS",
+    "slug": "delan-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Delantal ",
+    "variants": [
+      {
+        "sku": "59004",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59006",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59008",
+        "size": "8",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59010",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59012",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59014",
+        "size": "14",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59016",
+        "size": "16",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59018",
+        "size": "S",
+        "price": 16500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 16500
+    }
+  },
+  {
+    "title": "Delan azul - VARIOS COLEGIOS",
+    "slug": "delan-azul-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Delantal azul",
+    "variants": [
+      {
+        "sku": "59104",
+        "size": "4",
+        "price": 9000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59106",
+        "size": "6",
+        "price": 9500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59108",
+        "size": "8",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59110",
+        "size": "10",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59112",
+        "size": "12",
+        "price": 10000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59114",
+        "size": "14",
+        "price": 10500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59116",
+        "size": "16",
+        "price": 11000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59118",
+        "size": "S",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "59120",
+        "size": "M",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "59122",
+        "size": "L",
+        "price": 12500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9000,
+      "max": 12500
+    }
+  },
+  {
+    "title": "short - SOLRÍE",
+    "slug": "short-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "short",
+    "variants": [
+      {
+        "sku": "87010",
+        "size": "10",
+        "price": 7500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7500,
+      "max": 7500
+    }
+  },
+  {
+    "title": "Calza - SOLRÍE",
+    "slug": "calza-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "Calza",
+    "variants": [
+      {
+        "sku": "88002",
+        "size": "2",
+        "price": 6000,
+        "cost_price": 0
+      },
+      {
+        "sku": "88003",
+        "size": "3",
+        "price": 6000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 6000,
+      "max": 6000
+    }
+  },
+  {
+    "title": "calza - SOLRÍE",
+    "slug": "calza-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "calza",
+    "variants": [
+      {
+        "sku": "88004",
+        "size": "4",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "88006",
+        "size": "6",
+        "price": 7000,
+        "cost_price": 0
+      },
+      {
+        "sku": "88008",
+        "size": "8",
+        "price": 7500,
+        "cost_price": 0
+      },
+      {
+        "sku": "88010",
+        "size": "10",
+        "price": 7500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 7000,
+      "max": 7500
+    }
+  },
+  {
+    "title": "calza larga - SOLRÍE",
+    "slug": "calza-larga-solre",
+    "college_id": 6,
+    "college_name": "SOLRÍE",
+    "base_article": "calza larga",
+    "variants": [
+      {
+        "sku": "89002",
+        "size": "2",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "89003",
+        "size": "3",
+        "price": 8000,
+        "cost_price": 0
+      },
+      {
+        "sku": "89004",
+        "size": "4",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "89006",
+        "size": "6",
+        "price": 10200,
+        "cost_price": 0
+      },
+      {
+        "sku": "89008",
+        "size": "8",
+        "price": 10800,
+        "cost_price": 0
+      },
+      {
+        "sku": "89010",
+        "size": "10",
+        "price": 11300,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 8000,
+      "max": 11300
+    }
+  },
+  {
+    "title": "Delan Blanco - VARIOS COLEGIOS",
+    "slug": "delan-blanco-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Delantal Blanco",
+    "variants": [
+      {
+        "sku": "97004",
+        "size": "4",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97006",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97008",
+        "size": "8",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97010",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97012",
+        "size": "12",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97014",
+        "size": "14",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97016",
+        "size": "16",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97018",
+        "size": "S",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97020",
+        "size": "M",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97022",
+        "size": "L",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97024",
+        "size": "XL",
+        "price": 20500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97026",
+        "size": "XXL",
+        "price": 21000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97038",
+        "size": "38",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97040",
+        "size": "40",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97042",
+        "size": "42",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97044",
+        "size": "44",
+        "price": 20500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97046",
+        "size": "46",
+        "price": 20500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97048",
+        "size": "48",
+        "price": 21000,
+        "cost_price": 0
+      },
+      {
+        "sku": "97050",
+        "size": "50",
+        "price": 21500,
+        "cost_price": 0
+      },
+      {
+        "sku": "97052",
+        "size": "52",
+        "price": 22000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 22000
+    }
+  },
+  {
+    "title": "co - VARIOS COLEGIOS",
+    "slug": "co-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "cotona",
+    "variants": [
+      {
+        "sku": "98038",
+        "size": "38",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98040",
+        "size": "40",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "98042",
+        "size": "42",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "98044",
+        "size": "44",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98046",
+        "size": "46",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98048",
+        "size": "48",
+        "price": 20500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98050",
+        "size": "50",
+        "price": 20500,
+        "cost_price": 0
+      },
+      {
+        "sku": "98052",
+        "size": "52",
+        "price": 22000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 16500,
+      "max": 22000
+    }
+  },
+  {
+    "title": "Pan buzo - VARIOS COLEGIOS",
+    "slug": "pan-buzo-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Pantalon buzo",
+    "variants": [
+      {
+        "sku": "3508",
+        "size": "8",
+        "price": 13500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13500,
+      "max": 13500
+    }
+  },
+  {
+    "title": "parkas - VARIOS COLEGIOS",
+    "slug": "parkas-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "parkas",
+    "variants": [
+      {
+        "sku": "3108",
+        "size": "8",
+        "price": 32000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 32000,
+      "max": 32000
+    }
+  },
+  {
+    "title": "Poleras - VARIOS COLEGIOS",
+    "slug": "poleras-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Poleras",
+    "variants": [
+      {
+        "sku": "3708",
+        "size": "8",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "3808",
+        "size": "8",
+        "price": 14800,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 14800
+    }
+  },
+  {
+    "title": "Poleron - VARIOS COLEGIOS",
+    "slug": "poleron-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "Poleron",
+    "variants": [
+      {
+        "sku": "3908",
+        "size": "8",
+        "price": 15500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 15500,
+      "max": 15500
+    }
+  },
+  {
+    "title": "poleras - VARIOS COLEGIOS",
+    "slug": "poleras-varios-colegios",
+    "college_id": 7,
+    "college_name": "VARIOS COLEGIOS",
+    "base_article": "poleras",
+    "variants": [
+      {
+        "sku": "3909",
+        "size": "8",
+        "price": 9500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 9500,
+      "max": 9500
+    }
+  },
+  {
+    "title": "pan buzo - NUEVO HORIZONTE",
+    "slug": "pan-buzo-nuevo-horizonte",
+    "college_id": 3,
+    "college_name": "NUEVO HORIZONTE",
+    "base_article": "pantalon buzo",
+    "variants": [
+      {
+        "sku": "4826",
+        "size": "XXL",
+        "price": 18000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 18000,
+      "max": 18000
+    }
+  },
+  {
+    "title": "7 - COLEGIO LOS REYES",
+    "slug": "7-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "7",
+    "variants": [
+      {
+        "sku": "1234",
+        "size": null,
+        "price": 200,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 200,
+      "max": 200
+    }
+  },
+  {
+    "title": "Pan Buzo - COLEGIO LOS REYES",
+    "slug": "pan-buzo-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Pantalon Buzo",
+    "variants": [
+      {
+        "sku": "32304",
+        "size": "4",
+        "price": 12000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32306",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32316",
+        "size": "16",
+        "price": 15000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32310",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32312",
+        "size": "12",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32314",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32318",
+        "size": "S",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32320",
+        "size": "M",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32322",
+        "size": "L",
+        "price": 16500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 16500
+    }
+  },
+  {
+    "title": "Chaque - COLEGIO LOS REYES",
+    "slug": "chaque-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Chaqueta ",
+    "variants": [
+      {
+        "sku": "32308",
+        "size": "8",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32408",
+        "size": "8",
+        "price": 16000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 13000,
+      "max": 16000
+    }
+  },
+  {
+    "title": "Pan Buzo - COLEGIO LOS REYES",
+    "slug": "pan-buzo-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Pantalon Buzo ",
+    "variants": [
+      {
+        "sku": "32324",
+        "size": "XL",
+        "price": 17000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 17000,
+      "max": 17000
+    }
+  },
+  {
+    "title": "Chaque - COLEGIO LOS REYES",
+    "slug": "chaque-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Chaquetas",
+    "variants": [
+      {
+        "sku": "32404",
+        "size": "4",
+        "price": 15000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 15000,
+      "max": 15000
+    }
+  },
+  {
+    "title": "Chaque - COLEGIO LOS REYES",
+    "slug": "chaque-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Chaqueta",
+    "variants": [
+      {
+        "sku": "32406",
+        "size": "6",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32410",
+        "size": "10",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32412",
+        "size": "12",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32414",
+        "size": "14",
+        "price": 17500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32416",
+        "size": "16",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32418",
+        "size": "S",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32420",
+        "size": "M",
+        "price": 19000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32422",
+        "size": "L",
+        "price": 19500,
+        "cost_price": 0
+      },
+      {
+        "sku": "32424",
+        "size": "XL",
+        "price": 20000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 15500,
+      "max": 20000
+    }
+  },
+  {
+    "title": "Poleron azul - COLEGIO LOS REYES",
+    "slug": "poleron-azul-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Poleron azul",
+    "variants": [
+      {
+        "sku": "31506",
+        "size": "6",
+        "price": 17000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31508",
+        "size": "6",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31510",
+        "size": "10",
+        "price": 18500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31512",
+        "size": "12",
+        "price": 19000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31514",
+        "size": "14",
+        "price": 19500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31516",
+        "size": "6",
+        "price": 21000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31518",
+        "size": "S",
+        "price": 22500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31520",
+        "size": "M",
+        "price": 24000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31522",
+        "size": "L",
+        "price": 25500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31524",
+        "size": "XL",
+        "price": 27000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31526",
+        "size": "XXL",
+        "price": 28500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 17000,
+      "max": 28500
+    }
+  },
+  {
+    "title": "Pan buzo - COLEGIO LOS REYES",
+    "slug": "pan-buzo-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Pantalon buzo",
+    "variants": [
+      {
+        "sku": "32328",
+        "size": "XXXL",
+        "price": 18000,
+        "cost_price": 0
+      },
+      {
+        "sku": "32326",
+        "size": "XXL",
+        "price": 17500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 17500,
+      "max": 18000
+    }
+  },
+  {
+    "title": "jockey - SUEÑOS MAGICOS",
+    "slug": "jockey-sueos-magicos",
+    "college_id": 5,
+    "college_name": "SUEÑOS MAGICOS",
+    "base_article": "jockey",
+    "variants": [
+      {
+        "sku": "7802",
+        "size": null,
+        "price": 5500,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 5500,
+      "max": 5500
+    }
+  },
+  {
+    "title": "Poleras - COLEGIO LOS REYES",
+    "slug": "poleras-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Poleras",
+    "variants": [
+      {
+        "sku": "31312",
+        "size": "12",
+        "price": 14000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31314",
+        "size": "14",
+        "price": 14500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31306",
+        "size": "6",
+        "price": 12500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31308",
+        "size": "8",
+        "price": 13000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31310",
+        "size": "10",
+        "price": 13500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31318",
+        "size": "S",
+        "price": 15500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31320",
+        "size": "M",
+        "price": 16000,
+        "cost_price": 0
+      },
+      {
+        "sku": "31322",
+        "size": "L",
+        "price": 16500,
+        "cost_price": 0
+      },
+      {
+        "sku": "31324",
+        "size": "XL",
+        "price": 17000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12500,
+      "max": 17000
+    }
+  },
+  {
+    "title": "poleras - COLEGIO LOS REYES",
+    "slug": "poleras-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "poleras",
+    "variants": [
+      {
+        "sku": "31304",
+        "size": "4",
+        "price": 12000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 12000,
+      "max": 12000
+    }
+  },
+  {
+    "title": "Polera - COLEGIO LOS REYES",
+    "slug": "polera-colegio-los-reyes",
+    "college_id": 1,
+    "college_name": "COLEGIO LOS REYES",
+    "base_article": "Polera",
+    "variants": [
+      {
+        "sku": "31316",
+        "size": "16",
+        "price": 15000,
+        "cost_price": 0
+      }
+    ],
+    "price_range": {
+      "min": 15000,
+      "max": 15000
+    }
+  }
+]

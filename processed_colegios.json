@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "COLEGIO LOS REYES",
+    "slug": "colegio-los-reyes"
+  },
+  {
+    "id": 2,
+    "name": "JUAN XXIII",
+    "slug": "juan-xxiii"
+  },
+  {
+    "id": 3,
+    "name": "NUEVO HORIZONTE",
+    "slug": "nuevo-horizonte"
+  },
+  {
+    "id": 4,
+    "name": "CIEC",
+    "slug": "ciec"
+  },
+  {
+    "id": 5,
+    "name": "SUEÑOS MAGICOS",
+    "slug": "sueos-magicos"
+  },
+  {
+    "id": 6,
+    "name": "SOLRÍE",
+    "slug": "solre"
+  },
+  {
+    "id": 7,
+    "name": "VARIOS COLEGIOS",
+    "slug": "varios-colegios"
+  },
+  {
+    "id": 8,
+    "name": "NAHUEL",
+    "slug": "nahuel"
+  },
+  {
+    "id": 9,
+    "name": "YERPUN - MONTESORI",
+    "slug": "yerpun-montesori"
+  },
+  {
+    "id": 10,
+    "name": "VARIOS CODIGOS",
+    "slug": "varios-codigos"
+  }
+]

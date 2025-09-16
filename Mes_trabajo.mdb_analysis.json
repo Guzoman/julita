@@ -1,0 +1,45 @@
+{
+  "database_file": "C:/julia-confecciones/sistema en uso/Programa Inventario - Fuente/Mes_trabajo.mdb",
+  "file_size": 212992,
+  "tables": {
+    "mesano": {
+      "columns": [
+        {
+          "name": "mes",
+          "type": "<class 'str'>",
+          "size": 2,
+          "nullable": true,
+          "precision": 2,
+          "scale": 0
+        },
+        {
+          "name": "ano",
+          "type": "<class 'str'>",
+          "size": 4,
+          "nullable": true,
+          "precision": 4,
+          "scale": 0
+        },
+        {
+          "name": "mesactual",
+          "type": "<class 'bool'>",
+          "size": 1,
+          "nullable": false,
+          "precision": 1,
+          "scale": 0
+        }
+      ],
+      "primary_keys": [],
+      "foreign_keys": [],
+      "sample_data": [
+        [
+          "0",
+          "0",
+          "True"
+        ]
+      ]
+    }
+  },
+  "relationships": [],
+  "business_rules": []
+}
